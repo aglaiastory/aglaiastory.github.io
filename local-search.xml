@@ -4,11 +4,24 @@
   
   
   <entry>
-    <title>B1 我的新朋友圈</title>
-    <link href="/2022/09/04/B1/"/>
-    <url>/2022/09/04/B1/</url>
+    <title>Hello World</title>
+    <link href="/2022/09/05/hello-world/"/>
+    <url>/2022/09/05/hello-world/</url>
     
-    <content type="html"><![CDATA[<div class="note note-primary">            <p>花阿姨 犹如神一样的存在于恶魔社区，今天在这里开放一个朋友圈，这样就不会和大家失联了。</p>          </div><div class="note note-secondary">            <p>这样您也不用拷贝来拷贝去到各个社区了，原创仅此一份</p>          </div><p>  <img src="/img/bstory/01.jpg"></p><div class="note note-success">            <p>娴熟妩媚，合适反差</p>          </div><p>  <img src="/img/bstory/02.jpg"></p><div class="note note-danger">            <p>职业端庄，经典反差</p>          </div><p>  <img src="/img/bstory/03.jpg"></p><div class="note note-warning">            <p>高贵典雅，羞耻反差</p>          </div><p>  <img src="/img/bstory/04.jpg"><br>  <div class="note note-info">            <p>清除纯洁，合适反差</p>          </div></p><p>  <img src="/img/bstory/05.jpg"><br>  <div class="note note-light">            <p>轻熟俏皮，反差首选</p>          </div></p><div class="note note-danger">            <p>你喜欢哪一款？</p>          </div>]]></content>
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p><p>#文章中的Markdown</p><p>#这是一个标题</p><span class="label label-primary">这是一个行内标签primary</span><span class="label label-default">样式二default</span><span class="label label-info">样式三info</span><span class="label label-success">样式四success</span><span class="label label-warning">样式五warning</span><span class="label label-danger">样式五danger</span><span class="label label-light">样式六light</span><div class="note note-primary">            <p>这是一个段的标签primary</p>          </div><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">这是一段代码<br></code></pre></td></tr></table></figure><blockquote><p>这是引用的内容</p><blockquote><p>这是引用的内容</p><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><p>这是引用的内容</p></blockquote></blockquote></blockquote></blockquote></blockquote></blockquote></blockquote></blockquote></blockquote></blockquote><a class="btn" href="\img\avatar.png"  title="这是鼠标悬停时显示的文字（可选）" target="_blank">这是一个按钮的文字</a><div>            <input type="checkbox" disabled checked="checked">这是一个勾选框的文字          </div>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>B2 恶魔征友鬼迷心窍</title>
+    <link href="/2022/09/05/B2/"/>
+    <url>/2022/09/05/B2/</url>
+    
+    <content type="html"><![CDATA[<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br></pre></td><td class="code"><pre><code class="hljs bash">曾经真的以为人生就这样了<br>平静的心拒绝再有浪潮<br>斩了千次的情丝却断不了<br>百转千折它将我围绕<br>有人问我你究竟是那里好<br>这麽多年我还忘不了<br>春风再美也比不上你的笑<br>没见过你的人不会明了<br>是鬼迷了心窍也好<br>是前世的因缘也好<br>然而这一切已不再重要<br>如果你能够重回我怀抱<br>是命运的安排也好<br>是你存心的捉弄也好<br>然而这一切也不再重要<br>我愿意随你到天涯海角<br>虽然岁月总是匆匆的催人老<br>虽然情爱总是让人烦恼<br>虽然未来如何不能知道<br>现在说再见会不会太早<br></code></pre></td></tr></table></figure><p><img src="/img/bstory/11.jpg"></p><div class="note note-primary">            <p>曾经真的以为虐恋就这样了<br>受伤的B拒绝再有浪潮<br><strong>摩擦千次的蜜穴却爽不了</strong><br>百转千折它将我围绕</p><p>有人问我虐恋究竟是那里好<br>这麽多次我还戒不了<br><strong>娇踹再美也比不上狗的叫</strong><br>没有经历的人不会明了</p><p>是鬼迷了心窍也好<br>是前世的因缘也好<br>然而这一切已不再重要<br><strong>如果你能够羞耻我到反差</strong></p><p>是命运的安排也好<br>是你存心的捉弄也好<br>然而这一切也不再重要<br><strong>我愿意随你到露出到海角</strong></p><p>虽然岁月总是匆匆的催人老<br>虽然情爱总是让人烦恼<br>虽然未来如何不能知道<br><strong>现在说强制高潮会不会太早</strong></p>          </div><a class="btn" href="/img/bstory/12.jpg"  title="点击这里有一个彩蛋" target="_blank">反差</a><a class="btn" href="/img/bstory/13.jpg"  title="点击这里有一个彩蛋" target="_blank">露出</a><a class="btn" href="/img/bstory/14.jpg"  title="点击这里有一个彩蛋" target="_blank">强制</a><div class="note note-primary">            <p>你会哪一种？</p>          </div>]]></content>
     
     
     <categories>
@@ -31,13 +44,27 @@
   
   
   <entry>
-    <title>Hello World</title>
-    <link href="/2022/09/01/hello-world/"/>
-    <url>/2022/09/01/hello-world/</url>
+    <title>B1 我的新朋友圈</title>
+    <link href="/2022/09/04/B1/"/>
+    <url>/2022/09/04/B1/</url>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<div class="note note-primary">            <p>花阿姨 犹如神一样的存在于恶魔社区，今天在这里开放一个朋友圈，这样就不会和大家失联了。</p>          </div><div class="note note-secondary">            <p>这样您也不用拷贝来拷贝去到各个社区了，原创仅此一份</p>          </div><p>  <img src="/img/bstory/01.jpg"></p><div class="note note-success">            <p>娴熟妩媚，合适反差</p>          </div><p>  <img src="/img/bstory/02.jpg"></p><div class="note note-danger">            <p>职业端庄，经典反差</p>          </div><p>  <img src="/img/bstory/03.jpg"></p><div class="note note-warning">            <p>高贵典雅，羞耻反差</p>          </div><p>  <img src="/img/bstory/04.jpg"><br>  <div class="note note-info">            <p>洁白纯洁，合适反差</p>          </div></p><p>  <img src="/img/bstory/05.jpg"><br>  <div class="note note-light">            <p>轻熟俏皮，反差首选</p>          </div></p><div class="note note-danger">            <p>你喜欢哪一款？</p>          </div>]]></content>
     
     
+    <categories>
+      
+      <category>朋友圈</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>我的朋友圈</tag>
+      
+      <tag>我的说说</tag>
+      
+    </tags>
     
   </entry>
   
